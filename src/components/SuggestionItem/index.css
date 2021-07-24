@@ -1,0 +1,22 @@
+.item {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.suggestion-heading {
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: #64748b;
+  font-weight: 300;
+}
+.button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.arrow-button {
+  height: 30px;
+  width: 30px;
+}
